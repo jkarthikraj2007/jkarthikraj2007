@@ -1,0 +1,16 @@
+name: Generate Pac-Man contribution graph
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abozanona/pacman-contribution-graph@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
