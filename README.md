@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Karthik, a B.Tech Computer Science & Information Technology student at REVA University, Bengaluru. My coursework spans C, Python for Data Science, Probability & Statistics, and Digital Electronics — and I hold an IBM certification in Python for Data Science.
+I'm J Karthik Raj, a B.Tech Computer Science & Information Technology student at REVA University, Bengaluru. My coursework spans C, Python for Data Science, Probability & Statistics, and Digital Electronics — and I hold an IBM certification in Python for Data Science.
 
 I like building end-to-end, not just prototyping:
 
