@@ -72,6 +72,30 @@ Team projects built with a five-member group:
 
 ## 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,dart,solidity" alt="Languages" />
+</p>
+
+**Mobile and Web3**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,hardhat,sqlite" alt="Mobile and Web3" />
+</p>
+
+**Data and ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data and ML" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" alt="Tools" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
