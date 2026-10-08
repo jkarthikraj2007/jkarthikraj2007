@@ -79,7 +79,7 @@ Team projects built with a five-member group:
 
 **Mobile and Web3**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,hardhat,sqlite" alt="Mobile and Web3" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,sqlite" alt="Mobile and Web3" />
 </p>
 
 **Data and ML**
