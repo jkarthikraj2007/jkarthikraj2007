@@ -101,6 +101,6 @@ Team projects built with a five-member group:
 
 - GitHub: [@jkarthikraj2007](https://github.com/jkarthikraj2007)
 - LinkedIn: [J Karthik Raj](www.linkedin.com/in/j-karthik-raj-0a6110385)
-- Portfolio: [jkarthikraj2007.github.io/ai-foundation-projects](https://jkarthikraj2007.github.io/)
+- Portfolio: [https://github.com/jkarthikraj2007/jkarthikraj2007.github.io](https://jkarthikraj2007.github.io/)
 
 <p align="center"><i>Always building, always learning. ⚡</i></p>
