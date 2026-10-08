@@ -84,16 +84,13 @@ Team projects built with a five-member group:
 
 **Data and ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" alt="Data and ML" />
+  <img src="https://skillicons.dev/icons?i=sklearn" alt="Data and ML" />
 </p>
 
 **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" alt="Tools" />
 </p>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![IBM Certified](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
