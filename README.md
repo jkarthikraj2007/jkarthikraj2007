@@ -65,7 +65,7 @@ A farming assistant concept covering crop suggestion by soil type, harvest time 
 Team projects built with a five-member group:
 
 - Hugging Face model card analysis (NVIDIA LocateAnything-3B)
-- Portfolio website: [jkarthikraj2007.github.io/ai-foundation-projects](https://jkarthikraj2007.github.io/)
+- Portfolio website: [jkarthikraj2007.github.io](https://jkarthikraj2007.github.io/)
 - Live news aggregator using NewsAPI
 
 ---
